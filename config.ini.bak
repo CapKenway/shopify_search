@@ -1,0 +1,3 @@
+[SQL]
+sqlite = true
+address = database.db
